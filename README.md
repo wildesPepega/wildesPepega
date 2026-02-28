@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
+  <h1>🐸 :FeelsGoodMan: Willkommen bei wildesPepega!</h1>
+  <p><i>"Es ist kein Bug, es ist ein Feature, das Gemini 3.1 halluziniert hat."</i></p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Pepe Typing"/>
+</div>
 
-<!--
-**wildesPepega/wildesPepega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Willkommen in meinem Sumpf! Ich bin **wildesPepega**, tief im Pepe-Universum verwurzelt und ein Meister darin, absoluten "Shitty Stuff" zusammenzucoden. Mein treuer Begleiter bei der Erschaffung fragwürdiger Meisterwerke ist Google Gemini 3.1. 
+
+* **Mission:** Code schreiben, der funktioniert (meistens jedenfalls), und dabei maximalen Spaß haben.
+* **Status:** Wahrscheinlich gerade dabei, einen FiveM-Server zum Absturz zu bringen oder Tailwind-Klassen wild zu stapeln.
+
+## 💻 Mein Tech-Stack
+
+Mit diesen Tools generiere ich mein tägliches Chaos:
+
+**Frontend-Zauberei:**
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+**Scripting, Backend & Modding:**
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/FiveM-F46904?style=for-the-badge&logo=rockstar-games&logoColor=white" alt="FiveM" />
+</p>
+
+---
+
+
+<br>
+<div align="center">
+  <i>Stay wild. Stay Pepega.</i>
+</div>
