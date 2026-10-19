@@ -21,38 +21,25 @@
 ### `~ $ fastfetch`
 
 ```text
-╭─paul@howl  /home/paul  ‹system›
-╰─$ fastfetch --logo none
-┌──────────────────── User Information ────────────────────┐
-  Name       Paul  (aka wildesPepega)
-  Location   Saarland, Germany
-  Speaks     Deutsch, English
-  Writes     Rust (egui), C++ (csgo_gc)
-  Status     fighting the borrow checker
-└──────────────────────────────────────────────────────────┘
-
-┌─────────────────── Hardware Information ─────────────────┐
-  Board      Gigabyte X570 AORUS ELITE
-  CPU        AMD Ryzen 9 5900X (24) @ 5.08 GHz
-  GPU        AMD Radeon RX 6750 XT
-  RAM        16 GB
-  Storage    1 TB (ext4) + 500 GB (ntfs)
-  Display    24" 1080p @ 180 Hz  +  23" 1080p @ 60 Hz
-└──────────────────────────────────────────────────────────┘
-
-┌─────────────────── Software Information ─────────────────┐
-  OS         Arch Linux x86_64 (btw)
-  Kernel     Linux 7.2.11-arch1-1
-  DE         KDE Plasma 6.8 (KWin, Wayland)
-  Shell      fish 4.9 + oh-my-fish
-  Terminal   kitty 0.49
-  Editor     VSCodium
-  Theme      Catppuccin Mocha Green / Reversal-green-dark
-  Packages   1263 (pacman), 17 (flatpak)
-└──────────────────────────────────────────────────────────┘
-                       ● ● ● ● ● ● ● ●
-╭─paul@howl  /home/paul  ‹system›
-╰─$ █
+                   -`                  paul@howl
+                  .o+`                 ---------
+                 `ooo/                 OS:        Arch Linux x86_64 (btw)
+                `+oooo:                Name:      Paul (wildesPepega) 🐸
+               `+oooooo:               Location:  Saarland, Germany 🇩🇪
+               -+oooooo+:              Languages: Deutsch, English
+             `/:-:++oooo+:             Board:     X570 AORUS ELITE
+            `/++++/+++++++:            CPU:       AMD Ryzen 9 5900X
+           `/++++++++++++++:           GPU:       AMD Radeon RX 6750 XT
+          `/+++ooooooooooooo/`         RAM:       16 GB
+         ./ooosssso++osssssso+`        Displays:  1080p @ 180 Hz + 1080p @ 60 Hz
+        .oossssso-````/ossssss+`       DE:        KDE Plasma 6 (Wayland)
+       -osssssso.      :ssssssso.      Shell:     fish + oh-my-fish 🐟
+      :osssssss/        osssso+++.     Terminal:  kitty 🐱
+     /ossssssss/        +ssssooo/-     Editor:    VSCodium
+   `/ossssso+/:-        -:/+osssso+-   Rust:      egui apps & tools 🦀
+  `+sso+:-`                 `.-/+oso:  C++:       csgo_gc ⚙️
+ `++:.                           `-/+/
+ .`                                 `/ ███████████████████████
 ```
 
 -----------------
