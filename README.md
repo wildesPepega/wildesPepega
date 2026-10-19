@@ -53,8 +53,6 @@
 - [RETIRED] ⚛️ React / Tailwind  → the swamp has moved on
 ```
 
-➜ **[mikkokko/csgo_gc](https://github.com/mikkokko/csgo_gc)** — the C++ project I'm currently hacking on.
-
 ---
 
 ### `~ $ ls /usr/bin/stack`
