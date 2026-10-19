@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wildesPepega&label=ssh+connections&color=39d353&style=flat-square" alt="visitors"/>
-  <img src="https://img.shields.io/badge/shell-zsh-39d353?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117" alt="shell"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wildesPepega.wildesPepega&left_text=ssh%20connections&left_color=%230d1117&right_color=%2339d353" alt="visitors"/>
+  <img src="https://img.shields.io/badge/shell-fish_🐟-39d353?style=flat-square&labelColor=0d1117" alt="shell"/>
+  <img src="https://img.shields.io/badge/terminal-kitty_🐱-39d353?style=flat-square&labelColor=0d1117" alt="terminal"/>
   <img src="https://img.shields.io/badge/uptime-since_forever-39d353?style=flat-square&labelColor=0d1117" alt="uptime"/>
 </p>
 
@@ -27,12 +28,12 @@
                `+oooooo:               Alias:     wildesPepega 🐸
                -+oooooo+:              Location:  Saarland, Germany 🇩🇪
              `/:-:++oooo+:             Languages: Deutsch, English
-            `/++++/+++++++:            Shell:     zsh
-           `/++++++++++++++:           Editor:    whatever compiles
-          `/+++ooooooooooooo/`         Rust:      egui apps & tools 🦀
-         ./ooosssso++osssssso+`        C++:       csgo_gc ⚙️
-        .oossssso-````/ossssss+`       Status:    fighting the borrow checker
-       -osssssso.      :ssssssso.      Coffee:    ∞
+            `/++++/+++++++:            Shell:     fish + oh-my-fish 🐟
+           `/++++++++++++++:           Terminal:  kitty 🐱
+          `/+++ooooooooooooo/`         Editor:    VSCodium
+         ./ooosssso++osssssso+`        Rust:      egui apps & tools 🦀
+        .oossssso-````/ossssss+`       C++:       csgo_gc ⚙️
+       -osssssso.      :ssssssso.      Status:    fighting the borrow checker
       :osssssss/        osssso+++.
      /ossssssss/        +ssssooo/-     ███████████████████████
    `/ossssso+/:-        -:/+osssso+-
@@ -61,12 +62,16 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,cpp,cmake,python,lua&theme=dark" alt="languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,vscode,git,github&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=arch,linux,git,github&theme=dark" alt="tools"/>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/egui-immediate_mode_GUI-39d353?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" alt="egui"/>
   <img src="https://img.shields.io/badge/Counter--Strike-csgo__gc-39d353?style=for-the-badge&logo=counterstrike&logoColor=white&labelColor=0d1117" alt="csgo_gc"/>
+  <br/>
+  <img src="https://img.shields.io/badge/VSCodium-editor-39d353?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=0d1117" alt="VSCodium"/>
+  <img src="https://img.shields.io/badge/kitty-terminal_🐱-39d353?style=for-the-badge&labelColor=0d1117" alt="kitty"/>
+  <img src="https://img.shields.io/badge/fish-oh--my--fish_🐟-39d353?style=for-the-badge&labelColor=0d1117" alt="fish"/>
 </p>
 
 ---
@@ -102,7 +107,7 @@
 
 ### `~ $ exit`
 
-```bash
+```fish
 echo "Stay wild. Stay Pepega. 🐸"
 # connection to wildesPepega closed.
 ```
