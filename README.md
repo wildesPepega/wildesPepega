@@ -42,26 +42,6 @@
  .`                                 `/ ███████████████████████
 ```
 
------------------
-                 `ooo/                 OS:        Arch Linux x86_64 (btw)
-                `+oooo:                Name:      Paul
-               `+oooooo:               Alias:     wildesPepega 🐸
-               -+oooooo+:              Location:  Saarland, Germany 🇩🇪
-             `/:-:++oooo+:             Languages: Deutsch, English
-            `/++++/+++++++:            Shell:     fish + oh-my-fish 🐟
-           `/++++++++++++++:           Terminal:  kitty 🐱
-          `/+++ooooooooooooo/`         Editor:    VSCodium
-         ./ooosssso++osssssso+`        Rust:      egui apps & tools 🦀
-        .oossssso-````/ossssss+`       C++:       csgo_gc ⚙️
-       -osssssso.      :ssssssso.      Status:    fighting the borrow checker
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-     ███████████████████████
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
-```
-
 ---
 
 ### `~ $ cat projects.txt`
